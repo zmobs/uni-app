@@ -12,7 +12,6 @@
 
 ![](https://dcloud-img.oss-cn-hangzhou.aliyuncs.com/client/doc/univerify/demo.png)
 
-
 ### 原理
 在用户同意授权的操作前提下，访问运营商网关鉴权，获取当前设备access_token等信息。
 通过uniCloud 将access_token信息 置换为当前设备的真实手机号码
